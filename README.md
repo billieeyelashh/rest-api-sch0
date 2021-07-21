@@ -7,3 +7,7 @@ rest api for school
     mysql>  GRANT ALL PRIVILEGES ON database_name.* TO 'database_user'@'localhost';
     mysql>  GRANT RELOAD ON *.* TO 'admin2'@'localhost';
     mysql>  FLUSH PRIVLEGES
+
+
+## Needs TO-DO
+    - was really a pain in the ass to  get this running
