@@ -6,3 +6,4 @@ rest api for school
     mysql>  CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';
     mysql>  GRANT ALL PRIVILEGES ON database_name.* TO 'database_user'@'localhost';
     mysql>  GRANT RELOAD ON *.* TO 'admin2'@'localhost';
+    mysql>  FLUSH PRIVLEGES
