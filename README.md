@@ -10,4 +10,4 @@ rest api for school
 
 
 ## Needs TO-DO
-    - was really a pain in the ass to  get this running
+    - was really a pain to  get this running
