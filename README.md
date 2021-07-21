@@ -16,4 +16,4 @@ rest api for school
    - was really a pain to  get this running
    - Write Tests
    - Create Dockerfile
-   - Appearance sucks so needs a restyling urrrg
+   - Appearance sucks so needs a restyling urrrg -> Add forms
