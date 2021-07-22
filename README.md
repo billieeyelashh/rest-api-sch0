@@ -17,3 +17,4 @@ rest api for school
    - Write Tests
    - Create Dockerfile
    - Appearance sucks so needs a restyling urrrg -> Add forms
+   - Deploy to Heroku for Demo
