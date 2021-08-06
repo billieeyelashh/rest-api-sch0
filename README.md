@@ -3,7 +3,7 @@
 # rest-api-sch0
 
 rest api for school
-Live at http://apicomp.duckdns.org/api/employees/
+Live at http://apicomp.duckdns.org/api/
 
 
 ## How to setup mySql DB
