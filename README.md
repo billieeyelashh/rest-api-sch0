@@ -15,3 +15,4 @@ Live at http://apicomp.duckdns.org/api/
    - Write Tests
    - Create Dockerfile
    - Appearance sucks so needs a restyling urrrg -> Add forms
+   - create workflows with circleci for automatic deployment
